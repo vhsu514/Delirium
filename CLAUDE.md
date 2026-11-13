@@ -43,6 +43,9 @@ conflicts with them, stop and ask before going on.
   stage, run all tests and report what was built, what was tested and what is
   left open. Do not start the next stage until told.
 - The owner supplies the items in section 11 of the plan. Ask. Do not guess.
+- Commit as the owner: `Victor Hsu <vhsu514@gmail.com>` for both author and
+  committer. Do not add `Co-Authored-By`, session links or any other AI
+  attribution to commits or pull requests.
 
 ## Project layout
 
